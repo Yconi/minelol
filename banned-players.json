@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "uuid": "b5795f5e-5c64-42ed-8785-6ec8fb1475a6",
+    "name": "felipe_neto_",
+    "created": "2021-01-07 00:09:19 +0000",
+    "source": "Vitiinn_pup",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "b6bde4e3-2d36-441e-a915-ef0c2cef1e0e",
+    "name": "nekkan",
+    "created": "2021-01-07 00:06:04 +0000",
+    "source": "Vitiinn_pup",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  }
+]
